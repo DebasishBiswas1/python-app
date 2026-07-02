@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: python-api-container
-        image: debasishdocker2025/my-python-api:latest # <-- Your image!
+        image: debasishdocker2025!/my-python-api:latest # <-- Your image!
         ports:
         - containerPort: 8000
 ---
